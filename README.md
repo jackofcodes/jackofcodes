@@ -7,6 +7,12 @@
 
 - 🌱 I’m currently learning **react, Nodejs**
 
+-  I am also a cloud enthusiast and working on AWS Projects.
+
+-  I like building machine learning and deep learning models on cloud platforms.
+
+-  I have developed a keen interest in Generative AI and am learning Gen AI tools leveraged by GCP and AWS.
+
 - 👨‍💻 All of my projects are available at [https://github.com/jackofcodes](https://github.com/jackofcodes)
 
 - 💬 Ask me about **WebDev Environment**
